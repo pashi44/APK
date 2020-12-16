@@ -1,3 +1,10 @@
+
+
+
+
+
+
+
 # APK
 # this is an android based application compatible with
 Android  7 or more.
